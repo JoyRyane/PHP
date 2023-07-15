@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.background-image
+{
+    background-image: url(https://media.istockphoto.com/id/1248263998/photo/isolated-high-tech-open-laptop-with-abstract-vibrant-color-screen-on-a-dark-background.jpg?s=1024x1024&w=is&k=20&c=JlpOYruTLVMEWMMr5X00SYjSZk5hcsqrqfyE91VdIxc=);
+    background-position: center center;
+    background-repeat: no repeat;
+    background-attachment:  fixed;
+    background-size: cover;
+    height: 600px;
+}
